@@ -1,0 +1,4 @@
+127.0.0.1 - - [21/May/2023:17:16:28 +0800] "GET /pages/main.html HTTP/1.1" 304 - http-bio-82-exec-1 38
+127.0.0.1 - - [21/May/2023:17:16:28 +0800] "GET /pages/checkitem.html HTTP/1.1" 304 - http-bio-82-exec-3 2
+127.0.0.1 - - [21/May/2023:17:16:28 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-82-exec-4 4
+127.0.0.1 - - [21/May/2023:17:16:51 +0800] "POST /checkitem/add.do HTTP/1.1" 200 60 http-bio-82-exec-5 107
